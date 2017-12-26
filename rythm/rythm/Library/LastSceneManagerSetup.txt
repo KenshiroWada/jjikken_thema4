@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Exp2UnityTutorialForStudents/Assets/unitychan.unity
+  isLoaded: 1
+  isActive: 1
