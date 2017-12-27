@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UnityChan\Scripts\Animation2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PSMoveDetect.cs" Line="183" Column="2" />
+      <File FileName="Assets\Scripts\UniMoveTest.cs" Line="178" Column="24" />
+      <File FileName="Assets\UnityChan\Scripts\Animation3.cs" Line="47" Column="92" />
+      <File FileName="Assets\UnityChan\Scripts\Animation2.cs" Line="50" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
