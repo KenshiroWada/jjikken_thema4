@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/unitychan.unity
+- path: Assets/Clear.unity
   isLoaded: 1
   isActive: 1
