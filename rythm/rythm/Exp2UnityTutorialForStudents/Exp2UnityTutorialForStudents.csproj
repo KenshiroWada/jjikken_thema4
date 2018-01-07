@@ -197,6 +197,8 @@
     <Compile Include="Assets\UnityChan\Scripts\EnemyGenerator.cs" />
     <Compile Include="Assets\UnityChan\Scripts\FaceUpdate.cs" />
     <Compile Include="Assets\UnityChan\Scripts\IdleChanger.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\Opening_UnityChan.cs" />
+    <Compile Include="Assets\UnityChan\Scripts\OpennigScreen.cs" />
     <Compile Include="Assets\UnityChan\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\UnityChan\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />

@@ -7,11 +7,13 @@ public class Animation4 : MonoBehaviour {
     private GameObject player;
     public int judge;
     public int pos = 0;
+    public bool move;
     // Use this for initialization
     void Start () {
         player = GameObject.Find("player");
         animator = player.GetComponent<Animator>();
         animator.SetBool("Bump", false);
+        move = false;
     }
 	
 	// Update is called once per frame
@@ -21,7 +23,7 @@ public class Animation4 : MonoBehaviour {
         animator.SetBool("Walk", true);
         Vector3 tmp = player.transform.position;
         tmp.z -= 2; 
-        if (!animator.GetBool("Bump"))
+        if (!animator.GetBool("Bump") && move)
         {
             transform.position += transform.forward * 0.05f;
         }
